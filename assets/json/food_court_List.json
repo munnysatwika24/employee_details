@@ -1,0 +1,47 @@
+
+{
+
+  "items" : [
+    {
+      "image": "assets/images/isthara_corporate_logo_2.png",
+      "foodCourt" : "Fc-1",
+      "location" : "the platina,hyderabad"
+    },
+    {  "image": "assets/images/isthara_corporate_logo_2.png",
+      "foodCourt" : "Fc-2",
+
+      "location" : "the platina hyderabad"
+    },
+    {  "image": "assets/images/isthara_corporate_logo_2.png",
+      "foodCourt" : "Parth FoodCourt",
+      "location" : "Gachibowli,Hyderabad,Telangana"
+    },
+    {  "image": "assets/images/isthara_corporate_logo_2.png",
+      "foodCourt" : "Rajat food Court",
+      "location" : "Gachibowli , Hyderabad,Telangana"
+    },
+    {  "image": "assets/images/isthara_corporate_logo_2.png",
+      "foodCourt" : "Hyderabad FoodCourt",
+      "location" : "kondapur ,hyderabad"
+    },
+    {  "image": "assets/images/isthara_corporate_logo_2.png",
+      "foodCourt" : "Aditya fc",
+      "location" : "kondapur, hyderabad"
+    },{  "image": "assets/images/isthara_corporate_logo_2.png",
+      "foodCourt" : "Royal foodcourt",
+      "location" : "Gachibowli, hyderabad"
+    },{  "image": "assets/images/isthara_corporate_logo_2.png",
+      "foodCourt" : "Food court 1",
+      "location" : "Gachibowli, hyderabad"
+    },{  "image": "assets/images/isthara_corporate_logo_2.png",
+      "foodCourt" : "Abiruchulu",
+      "location" : "Manikonda, hyderabad"
+    }
+
+  ]
+
+
+
+}
+
+

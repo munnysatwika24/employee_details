@@ -1,0 +1,81 @@
+ [
+    {
+      "Vender" : "5 Star Chicken",
+      "total" : 231.8,
+      "tax": 11.59,
+      "items" : [
+        {
+          "itemName" : "Chicken Shots Mini (6 Pcs)",
+          "quantity": 2,
+          "price" : 136.8
+        },
+        {
+          "itemName" : "Chicken Fingers Mini (3 Pcs)",
+          "quantity": 2,
+          "price" : 95.0
+        }
+      ]
+
+
+
+    },
+
+
+    {
+      "Vender" : "Amritsar Wala",
+      "total" : 769.5,
+      "tax": 38.47,
+      "items" : [
+        {
+          "itemName" : "Dal Tadka Full",
+          "quantity": 1,
+          "price" : 209.0
+        },
+        {
+          "itemName" : "Paneer Achari Tikka (Half)",
+          "quantity": 1,
+          "price" : 142.5
+        },
+        {
+          "itemName" : "Chicken Makhani Boneless (Half)",
+          "quantity": 1,
+          "price" : 190.0
+        },
+        {
+          "itemName" : "Naan Butter",
+          "quantity": 2,
+          "price" : 95.0
+        },
+        {
+          "itemName" : "Chur Chur Naan",
+          "quantity": 2,
+          "price" : 133.0
+        }
+      ]
+
+    },
+    {
+      "Vender" : "Dakshin",
+      "total" : 400.8,
+      "tax": 95.0,
+
+      "items" : [
+        {
+          "itemName" : "Hyderabadi Veg Dum Biryani",
+          "quantity": 1,
+          "price" : 118.75
+        },
+        {
+          "itemName" : "Hyderabadi Chicken Dum Biryani",
+          "quantity": 1,
+          "price" : 171.0
+        },
+        {
+          "itemName" : "Malabar Paratha (2 Veg Paratha )",
+          "quantity": 1,
+          "price" : 95.0
+        }
+      ]
+
+    }
+  ]

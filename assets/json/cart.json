@@ -1,0 +1,117 @@
+  [
+  {
+    "Vender" : "5 Star Chicken",
+    "total" : 231.8,
+    "tax": 11.59,
+    "items" : [
+      {
+        "image": "assets/images/nonveg.jpg",
+        "itemName" : "Chicken Shots Mini (6 Pcs)",
+
+        "price" : 136.8
+      },
+      {  "image": "assets/images/nonveg.jpg",
+        "itemName" : "Chicken Fingers Mini (3 Pcs)",
+
+        "price" : 95.0
+      },{  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Vegetable Soup",
+        "price" : 150.0
+      },{  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Masala Dosa",
+        "price" : 95.0
+      },{  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Idly",
+        "price" : 45.0
+      },
+      {  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Bonda",
+        "price" : 50.0
+      }
+
+
+    ]
+
+
+
+  },
+
+
+  {
+    "Vender" : "Amritsar Wala",
+    "total" : 769.5,
+    "tax": 38.47,
+    "items" : [
+      {
+        "image": "assets/images/nonveg.jpg",
+        "itemName" : "Chicken Shots Mini (6 Pcs)",
+
+        "price" : 136.8
+      },
+      {  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Paneer Biryani",
+
+        "price" : 250.0
+      },
+      {  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Vegetable Soup",
+        "price" : 150.0
+      },
+      {  "image": "assets/images/nonveg.jpg",
+        "itemName" : "Mutton Dum Biryani",
+        "price" : 495.0
+      },
+      {  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Jeera rice",
+        "price" : 195.0
+      },{  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Mushroom Biryani",
+        "price" : 295.0
+      },{  "image": "assets/images/nonveg.jpg",
+        "itemName" : "Egg Fried Rice",
+        "price" : 200.0
+      }
+
+    ]
+
+  },
+  {
+    "Vender" : "Dakshin",
+    "total" : 400.8,
+    "tax": 95.0,
+
+    "items" : [
+      {
+        "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Veg Nuggets",
+
+        "price" : 136.8
+      },
+      {  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Paneer Biryani",
+
+        "price" : 250.0
+      },
+      {  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Osmania Biscuits",
+        "price" : 30.0
+      },
+      {  "image": "assets/images/nonveg.jpg",
+        "itemName" : "Mutton Keema balls",
+        "price" : 295.0
+      },
+      {  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Jeera Soda",
+        "price" : 15.0
+      },{  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Mushroom Popcorn",
+        "price" : 295.0
+      },{  "image": "assets/images/nonveg.jpg",
+        "itemName" : "Egg Fried Rice",
+        "price" : 200.0
+      }
+
+    ]
+
+  }
+]

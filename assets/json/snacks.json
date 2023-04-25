@@ -1,0 +1,41 @@
+
+{
+
+  "items" : [
+    {
+      "image": "assets/images/vegetarian.jpg",
+      "itemName" : "Veg Nuggets",
+
+      "price" : 136.8
+    },
+    {  "image": "assets/images/vegetarian.jpg",
+      "itemName" : "Paneer Biryani",
+
+      "price" : 250.0
+    },
+    {  "image": "assets/images/vegetarian.jpg",
+      "itemName" : "Osmania Biscuits",
+      "price" : 30.0
+    },
+    {  "image": "assets/images/nonveg.jpg",
+      "itemName" : "Mutton Keema balls",
+      "price" : 295.0
+    },
+    {  "image": "assets/images/vegetarian.jpg",
+      "itemName" : "Jeera Soda",
+      "price" : 15.0
+    },{  "image": "assets/images/vegetarian.jpg",
+      "itemName" : "Mushroom Popcorn",
+      "price" : 295.0
+    },{  "image": "assets/images/nonveg.jpg",
+      "itemName" : "Egg Fried Rice",
+      "price" : 200.0
+    }
+
+  ]
+
+
+
+}
+
+

@@ -1,0 +1,36 @@
+
+  {
+
+    "items" : [
+      {
+        "image": "assets/images/nonveg.jpg",
+        "itemName" : "Chicken Shots Mini (6 Pcs)",
+
+        "price" : 136.8
+      },
+      {  "image": "assets/images/nonveg.jpg",
+        "itemName" : "Chicken Fingers Mini (3 Pcs)",
+
+        "price" : 95.0
+      },{  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Vegetable Soup",
+        "price" : 150.0
+      },{  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Masala Dosa",
+        "price" : 95.0
+      },{  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Idly",
+        "price" : 45.0
+      },
+      {  "image": "assets/images/vegetarian.jpg",
+        "itemName" : "Bonda",
+        "price" : 50.0
+      }
+
+    ]
+
+
+
+  }
+
+
